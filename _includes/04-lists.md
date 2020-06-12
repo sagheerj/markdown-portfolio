@@ -1,1 +1,4 @@
-Replace this with a list of your favorite things.
+# List of Random Items
+- List item A
+- List Item B
+- List Item C
